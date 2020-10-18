@@ -1,11 +1,14 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Andrei Constantinescu
+email: admin@andreiconstantinescu.com
+url: https://www.andreiconstantinescu.com
+description: "This is my personal website where I showcase my work and ambitions. 
+  It also acts like a virtual business card."
+keywords: "genetic, epidemiology, epidemiologist, statistician, data science,
+  data scientist, science, phd student, phd candidate, andrei constantinescu, constantinescu,
+  mendelian randomization, university of bristol"
+skills: "PhD candidate - Genetic epidemiology - Data science"
+meta_author: Constantinescu Andrei
 
 # Google webmaster tools
 google_verify:
