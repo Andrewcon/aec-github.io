@@ -1,6 +1,4 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+Andrei's personal website  [![Build Status](https://travis-ci.org/andrewcon/andrewcon.github.io.svg?branch=master)](https://travis-ci.org/andrewcon/andrewcon.github.io/) 
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
-
-## How to use
+Forked from https://jeromelachaud.com/freelancer-theme
