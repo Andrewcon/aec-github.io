@@ -2,4 +2,4 @@ Andrei's personal website  [![Build Status](https://travis-ci.org/andrewcon/andr
 
 =========================
 
-Forked from https://jeromelachaud.com/freelancer-theme
+Forked from https://github.com/jeromelachaud/freelancer-theme
