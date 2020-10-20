@@ -1,5 +1,6 @@
 # Site settings
 title: Andrei Constantinescu
+page.title: FALSE
 email: admin@andreiconstantinescu.com
 url: https://www.andreiconstantinescu.com
 description: "This is my personal website where I showcase my work and ambitions. 
@@ -42,20 +43,18 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/andrei-e-constantinescu/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/andrewcon
+  - title: twitter
+    url: https://twitter.com/_andreicon
+  - title: orcid
+    url: https://orcid.org/0000-0002-7974-5245
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Oafkfield House
+  - line: Oakfield House
   - line: Bristol, United Kingdom
 
 # Credits content
