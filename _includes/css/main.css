@@ -146,7 +146,7 @@ header .intro-text .name {
     font-weight: 700;
 }
 
-header .intro-text .skills {
+header .intro-text .social .skills {
     font-size: 1.25em;
     font-weight: 300;
 }
@@ -154,7 +154,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
+        padding-bottom: 80px;
     }
 
     header .intro-text .name {
@@ -163,6 +163,11 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
+        padding-top: 5px;
+    }
+
+    header .intro-text .social {
+        padding-bottom: 20px;
     }
 }
 
@@ -339,6 +344,24 @@ section.success {
     background: #fff;
 }
 
+.btn-outline-secondary {
+    margin-top: 15px;
+    border: solid 2px #fff;
+    font-size: 20px;
+    color: #{{ site.color.primary }};
+    background: 0 0;
+    transition: all .3s ease-in-out;
+}
+
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus,
+.btn-outline-secondary:active,
+.btn-outline.active {
+    border: solid 2px #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+    background: #fff;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -424,7 +447,7 @@ footer .footer-below {
     border: 2px solid #fff;
     border-radius: 100%;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 45px;
 }
 
