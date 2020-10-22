@@ -29,8 +29,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 009999 #80B3FF
+  primary-rgb: "0,153,153" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -38,7 +38,7 @@ color:
 footer:
   copyright: Andrei Constantinescu
   location: Location
-  social: Around the Web
+  poster:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
