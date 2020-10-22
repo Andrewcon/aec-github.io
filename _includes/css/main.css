@@ -154,7 +154,7 @@ header .intro-text .social .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 80px;
+        padding-bottom: 90px;
     }
 
     header .intro-text .name {
@@ -167,7 +167,7 @@ header .intro-text .social .skills {
     }
 
     header .intro-text .social {
-        padding-bottom: 20px;
+        padding-bottom: 10px;
     }
 }
 
@@ -230,6 +230,10 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+#about p {
+    text-align:justify;
 }
 
 @media(max-width:767px) {
@@ -346,7 +350,7 @@ section.success {
 
 .btn-outline-secondary {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #{{ site.color.primary }};
     font-size: 20px;
     color: #{{ site.color.primary }};
     background: 0 0;
@@ -357,7 +361,7 @@ section.success {
 .btn-outline-secondary:focus,
 .btn-outline-secondary:active,
 .btn-outline.active {
-    border: solid 2px #{{ site.color.primary }};
+    border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
 }
