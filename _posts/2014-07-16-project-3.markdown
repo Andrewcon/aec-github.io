@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2021-10-20
+img: t2d.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: PhD Chapter 3
+project-date: Test
+client: Test
+category: Test
+description: Type 2 diabetes (T2D) is a life-threatening disease which comes with a great economic burden and potential loss of life. It is characterized by both an altered metabolism and hightened immune state. Several immune cell subtypes (e.g. neutrophil count) have been associated with an increased risk and mortality of T2D. I am using genetic data from the <a href="http://diagram-consortium.org/index.html">DIAGRAM</a> consortium to perform a <a href="https://academic.oup.com/ije/article/32/1/1/642797">Mendelian randomization</a> analysis to study the relationship between immune cells in circulation and T2D. I am also looking at how immune cells might mediate the known link between T2D and colorectal cancer.
 ---

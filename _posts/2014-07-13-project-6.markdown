@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2021-10-20
+img: ukbbmr.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: ukbbmr
+project-date: Test
+client: Test
+category: Test
+description: During my time working with <a href="https://www.ukbiobank.ac.uk/">UK Biobank</a> (UKBB) and <a href="https://academic.oup.com/ije/article/32/1/1/642797">Mendelian randomization</a> (MR), I compiled many functions which made my work easier. I decided to convert these into a package called 'ukbbmr', which takes phenotypic and genetic data as inputs to perform one-sample MR analyses between traits of interest. Multi-threaded support was added to improve performance. Link to the GitHub repo <a href="https://github.com/andrewcon/ukbbmr">here</a>.
 ---

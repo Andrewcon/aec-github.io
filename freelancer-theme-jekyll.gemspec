@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name                    = "andrewcon-website"
-  spec.version                 = "1.0.0"
+  spec.version                 = "2.0.0"
   spec.authors                 = ["Andrei Constantinescu"]
 
   spec.summary                 = %q{Personal website of Andrei Constantinescu.}

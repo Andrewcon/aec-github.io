@@ -558,8 +558,8 @@ footer .footer-below {
     border-radius: 50%;
     position: relative;
     overflow: hidden;
-  }
-  
+}
+
 .circular img {
     min-width: 100%;
     min-height: 100%;
@@ -572,4 +572,8 @@ footer .footer-below {
     -moz-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-  }
+}
+
+.modal-body p {
+    text-align: justify;
+}

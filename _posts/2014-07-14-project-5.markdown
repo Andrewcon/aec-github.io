@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2021-10-20
+img: malaria.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: PhD Chapter 5
+project-date: Test
+client: Test
+category: Test
+description: Severe malaria caused by P. falciparum is mostly present in sub-Saharan Africa and comes with a great loss of life and economic development. People of African descent have lower average neutrophil counts compared to other populations. It is thought that this might provide a protective effect against severe malaria. I used African ancestry data from my 4<sup>th</sup> chapter to conduct a genome-wide association study of neutrophil count. I then performed a Mendelian randomization analysis between neutrophil counts and severe malaria subtypes <a href="https://www.malariagen.net/">(MalariaGEN)</a>.
 ---
