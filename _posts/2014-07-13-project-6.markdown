@@ -4,7 +4,7 @@ modal-id: 6
 date: 2023-01-05
 img: bdi.png
 alt: image-alt
-title: ukbbmr
+title: Post-doc
 project-date: Test
 client: Test
 category: Test
