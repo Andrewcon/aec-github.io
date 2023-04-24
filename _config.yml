@@ -2,7 +2,7 @@
 title: Andrei Constantinescu
 page.title: FALSE
 email: admin@andreiconstantinescu.com
-url: https://www.andreiconstantinescu.com
+url: https://andrewcon.github.io
 description: "This is my personal website where I showcase my work and ambitions. 
   It also acts like a virtual business card."
 keywords: "genetic, epidemiology, epidemiologist, statistician, data science,
@@ -12,7 +12,7 @@ skills: "PhD candidate - Genetic epidemiology - Data science"
 meta_author: Constantinescu Andrei
 
 # Google webmaster tools
-google_verify:
+google_verify: 
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
