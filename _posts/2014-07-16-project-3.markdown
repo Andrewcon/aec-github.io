@@ -3,10 +3,10 @@ layout: default
 modal-id: 3
 date: 2023-01-08
 img: malaria.png
-alt: image-alt
+alt: image-alt3
 title: PhD Chapter 3
-project-date: Test
-client: Test
-category: Test
+project-date: Test3
+client: Test3
+category: Test3
 description: Severe malaria caused by P. falciparum is mostly present in sub-Saharan Africa and comes with a great loss of life and economic development. I aimed to determine if neutrophil levels could influence the risk of having severe P. falciparum malaria, as suggested by observational studies. Using the data from the 2<sup>nd</sup> project, I conducted a genome-wide association study of neutrophil count in people of African ancestry. I then performed a Mendelian randomization analysis between neutrophil count and severe malaria subtypes <a href="https://www.malariagen.net/">(MalariaGEN)</a>. There was limited evidence of an effect, but there were sample-size limitations which highlighted the importance of conducting large-scale studies in sub-Saharan Africa.
 ---

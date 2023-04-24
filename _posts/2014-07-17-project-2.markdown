@@ -3,10 +3,10 @@ layout: default
 modal-id: 2
 date: 2023-01-09
 img: pop.png
-alt: image-alt
+alt: image-alt2
 title: PhD Project 2
-project-date: Test
-client: Test
-category: Test
+project-date: Test2
+client: Test2
+category: Test2
 description: There are over 500K participants in the <a href="https://www.ukbiobank.ac.uk/">UK Biobank</a> study, which includes roughly 80K people who are of non-white British ancestry. However, most studies conducted using UK Biobank data have been done in the white-British subset of its participants. Using population genetics and machine learning methods, I associated the non-white British UK Biobank participants to the European, South Asian, East Asian and African continental ancestry groups (CAGs). These  were further assigned into more homogeneous groups to get a better understanding of the degree of diversity within each CAG. The resulting CAG information could then be used by anyone having access to UK Biobank to perform epidemiological analyses in diverse populations, thereby contributing to the health outcomes of a broader segment of the UK's population. I was happy to see the research done here published in <a href="https://humgenomics.biomedcentral.com/articles/10.1186/s40246-022-00380-5">BMC Human Genomics</a>.
 ---
