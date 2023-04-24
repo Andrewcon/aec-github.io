@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 6
-date: 2021-10-20
-img: ukbbmr.png
+date: 2023-01-05
+img: bdi.png
 alt: image-alt
 title: ukbbmr
 project-date: Test
 client: Test
 category: Test
-description: During my time working with <a href="https://www.ukbiobank.ac.uk/">UK Biobank</a> (UKBB) and <a href="https://academic.oup.com/ije/article/32/1/1/642797">Mendelian randomization</a> (MR), I compiled many functions which made my work easier. I decided to convert these into a package called 'ukbbmr', which takes phenotypic and genetic data as inputs to perform one-sample MR analyses between traits of interest. Multi-threaded support was added to improve performance. Link to the GitHub repo <a href="https://github.com/andrewcon/ukbbmr">here</a>.
+description: I secured funding from the Medical Research Council to do a post-doc project at the University of Oxford's <a href="https://www.bdi.ox.ac.uk/7">Big Data Institute</a> starting 1 May 2023. I am working along with <a href="https://www.bdi.ox.ac.uk/Team/benjamin-schuster-bockler-1">Ben</a>, with whom I am trying to explore the relationship between body mass index and risk of developing oesophageal cancer adenocarcinoma. While this relationship is well-known, the intermediate biological pathways have not been investigated. I am using a combined observational and genetic epidemiology approach i.e. statistical modelling using <a href="https://www.ukbiobank.ac.uk/">UK Biobank</a> data and <a href="https://academic.oup.com/ije/article/32/1/1/642797">Mendelian randomization</a> with genetic data. It has been my childhood dream to work at Oxford, and I am looking forward to doing cutting-edge research and meeting world-renowned scientists. <i class="fa fa-star"></i>
 ---

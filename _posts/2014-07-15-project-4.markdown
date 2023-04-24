@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2021-10-20
-img: pop.png
+date: 2023-01-07
+img: dvt.png
 alt: image-alt
 title: PhD Chapter 4
 project-date: Test
 client: Test
 category: Test
-description: <a href="https://www.ukbiobank.ac.uk/">UK Biobank</a> is a 500K-participant study which has produced a lot of valuable healthcare research. However, most studies conducted using its data have been done in Europeans. This leaves out roughly 80K people who are not white British. Using several methods in population genetics, I have worked with members of my team to assign these people in continental ancestry groups corresponding to Europe, South Asia, East Asia and Africa. The aim of this project is to present a blueprint for future studies and aid future projects at my department.
+description: Deep vein thrombosis (DVT) is the formation of a clot in the deep veins of the leg. It is a potentially-life threatening disease which can progress to a pulmonary embolism, potentially leading to heart failure or death. Platelets are key in clot formation, and they have been involved in DVT development, although it is not known through which pathways they might act. To find potentially new pathways of DVT development linked to platelets, I conducted a Mendelian randomization study where I analysed ~2000 traits and their effect on DVT risk. I identified new risk factors for DVT, such as hyperthyroidism and varicose veins, and established risk factors, such as body mass index. Half of the risk factors I identified were adiposity-related, and I therefore investigated if proteins affected by adiposity influence the risk of developing DVT. More information is available on the <a href="https://www.biorxiv.org/content/10.1101/476135v2">BioRxiv pre-print</a>.  
 ---

@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2021-10-20
-img: malaria.png
+date: 2023-01-06
+img: ikeep.png
 alt: image-alt
-title: PhD Chapter 5
+title: IKEEP placement
 project-date: Test
 client: Test
 category: Test
-description: Severe malaria caused by P. falciparum is mostly present in sub-Saharan Africa and comes with a great loss of life and economic development. People of African descent have lower average neutrophil counts compared to other populations. It is thought that this might provide a protective effect against severe malaria. I used African ancestry data from my 4<sup>th</sup> chapter to conduct a genome-wide association study of neutrophil count. I then performed a Mendelian randomization analysis between neutrophil counts and severe malaria subtypes <a href="https://www.malariagen.net/">(MalariaGEN)</a>.
+description: I applied to <a href="https://www.setsquared.co.uk/programme/ikeep-programme-students/">IKEEP</a>, an intrapreneurship programme which trains students and then matches them with start-up companies. I had the great opportunity to do an internship at <a href="https://veracitytrustnetwork.com/">Beaconsoft Ltd. (now known as Veracity Trust Network)</a>, a data science start-up specializing in preventing click-ad fraud through AI-based malicious bot detection. My project aimed to validate their current AI bot detection system and suggest ways to improve it. Using data science and statistical analysis, I visualized and analyzed the data using techniques such as principal component analysis, logistic and LASSO regression. The project was conducted in collaboration with two other students with separate aims. We presented our findings in a written report and final presentation. This experience gave me hands-on exposure to working with a start-up and implementing machine learning algorithms in a real-world application.
 ---
